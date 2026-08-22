@@ -31,9 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   
    <center>
       <h2>Deploying on container using Ansible</h2>
     </center>
-  
 </form>
